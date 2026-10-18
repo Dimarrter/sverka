@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dimarrter.github.io/sverka/sitemap.xml
